@@ -31,7 +31,7 @@ without adding heavy dependencies (external software) or requirements (operating
 resulting solution).
 
 This software is released together with L<MooX::Locale::TextDomain::OO>, which
-allowes then to plugin any desired translation.
+allows then to plugin any desired translation.
 
 =head1 METHODS
 
